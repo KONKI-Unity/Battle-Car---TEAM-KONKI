@@ -1,4 +1,1 @@
-sceneSetups:
-- path: Assets/unity 2K17.unity
-  isLoaded: 1
-  isActive: 1
+sceneSetups: []
